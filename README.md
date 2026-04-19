@@ -10,10 +10,10 @@ I’m a Computer Science student at UIC with a strong interest in C++ and data s
 C++ · Java · Lua · C · HTML · CSS  
 
 **Developer Tools:**  
-Git · GitHub · VS Code · Valgrind · AddressSanitizer · Google Test  
+Git · GDB · GCC · VSCode· Make · Valgrind · AddressSanitizer · Google Test  
 
 **Game Development:**  
-Unity · Blender (basic)  
+Unity · Blender (basic) · Steam Game Modding · Roblox Studio (Lua scripting)
 
 ---
 
