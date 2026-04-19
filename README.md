@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christian Aguirre
 
-CS Student @ UIC | C++ Developer | Data Structures | Interested in Game Development
+I’m a Computer Science student at UIC with a strong interest in C++ and data structures. I enjoy building projects from scratch and understanding how systems work at a deeper level. I’m currently focused on improving my problem-solving skills and working toward a career in software engineering, with an interest in game development.
 
 ---
 
